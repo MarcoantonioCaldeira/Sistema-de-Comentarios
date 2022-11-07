@@ -8,7 +8,7 @@
 import Comments from './components/Comments.vue';
 
 export default {
-  name: 'App',
+  name: 'app',
   components: {
     Comments
   }
