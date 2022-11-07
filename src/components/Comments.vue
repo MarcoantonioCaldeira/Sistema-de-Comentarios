@@ -12,9 +12,10 @@
       <button v-on:click="addComment" type="submit" class="btn btn-primary">Comentar</button>
     </div>
     <div class="list-group">
+      <p v-if="comments.length <= 0">Sem comentarios...</p>
       <div class="list-group-item" v-for="(comment, index) in allComments">
         <span class="comment__author">Autor: <strong>{{ comment.name }}</strong></span>
-        <p>{{ comment.message }}</p>
+       <p>Comentario: {{ comment.message }}</p>
         <div>
           <a href="#" title="Excluir" v-on:click.prevent="removeComment(index)">Excluir</a>
         </div>

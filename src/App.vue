@@ -1,7 +1,5 @@
 <template>
-
-<Comments />
-
+  <Comments />
 </template>
 
 <script>
