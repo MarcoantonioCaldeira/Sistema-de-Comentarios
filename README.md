@@ -1,15 +1,7 @@
-<h2>Sistema de comentarios</h2>
+<h1>Sistema de comentarios</h1>
 
-Sistema de comentarios desenvolvido com Vue.JS e Bootstrap
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/MarcoantonioCaldeira/Sistema-de-comentarios" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/MarcoantonioCaldeira/Sistema-de-comentarios" /> <img alt="Github License" src="https://img.shields.io/github/license/MarcoantonioCaldeira/Sistema-de-comentarios" />
 
-
-<h3>Formato Desktop</h3>
-
-
-<h3>Formato IOS</h3>
-
-![Formato_Mobile_IOS](https://user-images.githubusercontent.com/88919003/210923749-383687f0-0716-4fe7-b096-bbde7096399f.jpg)
-
-</table>
+<h2>Sistema desenvolvido com Vue.JS e Bootstrap</h2>
 
 
